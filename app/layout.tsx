@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Google Antigravity',
-  description: 'Google Antigravity - Build the new way',
+  title: 'TjayCodes',
+  description: 'Get web data from any website',
 }
 
 export default function RootLayout({
