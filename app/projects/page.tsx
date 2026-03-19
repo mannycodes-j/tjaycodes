@@ -4,7 +4,7 @@ import ScrollReveal from '@/components/animations/ScrollReveal'
 import ProjectsPageContent from '@/components/module/ProjectsPageContent'
 
 export const metadata = {
-  title: 'Projects | Antigravity',
+  title: 'Projects | Tjaycodes',
   description:
     'Explore TJ projects across automation, scraping, integrations, and high-demand workflow systems.',
 }

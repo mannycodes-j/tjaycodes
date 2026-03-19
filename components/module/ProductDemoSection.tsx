@@ -50,7 +50,7 @@ export default function ProductDemoSection() {
           width="100%"
           height="100%"
           src="https://www.youtube.com/embed/xZq59Kj5b30?si=5AifH1EmdHLOHoKU"
-          title="Google Antigravity product demo"
+          title="Tjaycodes product demo"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen

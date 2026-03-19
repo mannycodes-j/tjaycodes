@@ -5,7 +5,7 @@ import BlogSection from '@/components/module/BlogSection'
 import ScrollReveal from '@/components/animations/ScrollReveal'
 
 export const metadata: Metadata = {
-  title: 'Blog | Antigravity',
+  title: 'Blog | Tjaycodes',
   description:
     'Insights on automation, data engineering, and business scaling strategies.',
 }

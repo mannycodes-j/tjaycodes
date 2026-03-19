@@ -4,7 +4,7 @@ import AboutSection from '@/components/module/AboutSection'
 import ScrollReveal from '@/components/animations/ScrollReveal'
 
 export const metadata = {
-  title: 'About TJ | Antigravity',
+  title: 'About TJ | Tjaycodes',
   description:
     'Learn about TJ and his expertise in automation, anti-bot bypass, and business intelligence.',
 }

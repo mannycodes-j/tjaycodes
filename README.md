@@ -1,6 +1,6 @@
-# Google Antigravity Landing Page Clone
+# Tjaycodes
 
-A Next.js App Router clone of the Google Antigravity-inspired landing page with interactive particle motion, scroll inertia, and responsive sections.
+A Next.js App Router portfolio and automation showcase with interactive particle motion, scroll inertia, and responsive sections.
 
 ## Stack
 

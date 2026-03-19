@@ -55,7 +55,7 @@ export default function TypingEffect({
     <div ref={elementRef} className={className} style={{ minHeight: '1em' }}>
       {visibleText}
       <img
-        src="/antigravity-cursor.png"
+        src="/tjaycodes-cursor.png"
         alt="cursor"
         height={28}
         style={{ animationDuration: `${cursorSpeed}ms` }}

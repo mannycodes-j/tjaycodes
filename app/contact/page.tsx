@@ -4,7 +4,7 @@ import ScrollReveal from '@/components/animations/ScrollReveal'
 import ContactPageSection from '@/components/module/ContactPageSection'
 
 export const metadata = {
-  title: 'Contact | Antigravity',
+  title: 'Contact | Tjaycodes',
   description:
     'Start your automation project with TJ. Share scope, budget, and timeline to get a fast response.',
 }
