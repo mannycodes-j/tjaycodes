@@ -58,4 +58,5 @@ public/
 - Main route is implemented in `app/page.tsx`.
 - Global styles are in `app/globals.css`.
 - Interactive components are client components where required.
+
 # tjaycodes
